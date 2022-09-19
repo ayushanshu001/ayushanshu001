@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Anshu</h1>
-<h3 align="center">Aspiring Full Stack Developer with specialization in MERN Stack professional, adept at engineering robust and user-centric solutions. Collaborative, team player who is proficient in working with interdisciplinary teams and executing goal oriented projects. Strongly interested in obtaining a Software Developer position to work on enhancing the product experience.</h3>
+<h3 align="center">Aspiring Full Stack Web Developer with specialization in MERN Stack professional, adept at engineering robust and user-centric solutions. Collaborative, team player who is proficient in working with interdisciplinary teams and executing goal oriented projects. Strongly interested in obtaining a Software Developer position to work on enhancing the product experience.</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
 
