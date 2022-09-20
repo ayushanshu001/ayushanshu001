@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Anshu</h1>
-<h3 align="center">Aspiring Full Stack Developer with specialization in MERN Stack professional, adept at engineering robust and user-centric solutions. Collaborative, team player who is proficient in working with interdisciplinary teams and executing goal oriented projects. Strongly interested in obtaining a Software Developer position to work on enhancing the product experience.</h3>
+<h3 align="center">aspiring full stack developer with a specialization in MERN stack. Always love to learn something new and deal with new tasks and challenges. I have done my B-Tech from Kolkata and currently residing at Dhanbad, Jharkhand, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushanshu001&label=Profile%20views&color=0e75b6&style=flat" alt="ayushanshu001" /> </p>
 
