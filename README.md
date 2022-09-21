@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Anshu</h1>
-<h3 align="center">aspiring full stack developer with a specialization in MERN stack. Always love to learn something new and deal with new tasks and challenges. I have done my B-Tech from Kolkata and currently residing at Dhanbad, Jharkhand, India.</h3>
+<h3 align="center">Full Stack Developer & learning MERN Stack at Masai School. Always love to learn something new and deal with new tasks and challenges. I have done my B-Tech from Kolkata and currently residing at Dhanbad, Jharkhand, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushanshu001&label=Profile%20views&color=0e75b6&style=flat" alt="ayushanshu001" /> </p>
 
