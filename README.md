@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [ayushanshu001.github.io](ayushanshu001.github.io)
 
-- 💬 Ask me about **React.js, Redux, Node.js**
+- 💬 Ask me about **Javascript, React.js, Redux, Node.js, Mongodb, Express.js**
 
 - 📫 How to reach me **ayushanshu56@gmail.com**
 
