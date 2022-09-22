@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Full Stack Developer & learning MERN Stack at Masai School, Bangalore. Always love to learn something new and deal with new tasks and challenges. I have done my B-Tech from Kolkata and currently residing at Dhanbad, Jharkhand, India.
 
 
